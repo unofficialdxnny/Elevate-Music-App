@@ -1,1 +1,1 @@
-<h1>Elevate Music App</h1>
+<h1 align="center">Elevate Music App</h1>
