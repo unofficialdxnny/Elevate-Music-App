@@ -1,2 +1,1 @@
-# Music-App
-A unique cross plat form music app 
+<h1>Elevate Music App</h1>
