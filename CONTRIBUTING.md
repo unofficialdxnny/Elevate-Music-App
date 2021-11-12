@@ -5,6 +5,6 @@
 3. Add your edits
 4. Create your feature branch: `git checkout -b my-new-feature`
 5. Stage changes `git add .`
-6. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
+6. Commit your changes: `git commit`
 7. Push to the branch: `git push origin my-new-feature`
 8. Submit a pull request
