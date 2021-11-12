@@ -1,7 +1,7 @@
 # Contributing
 
 1. [Fork the repository](https://github.com/Danny-05/Elevate-Music-App/fork)
-2. Clone your fork: `Download Your Fork`
+2. Clone your fork: `git clone your repo link.git`
 3. Add your edits
 4. Create your feature branch: `git checkout -b my-new-feature`
 5. Stage changes `git add .`
