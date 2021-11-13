@@ -6,6 +6,22 @@
   box-sizing: border-box;
 }
 
+body, html {
+  height: 100%;
+    /* The image used */
+    background-image: url("https://i.pinimg.com/originals/cc/7b/19/cc7b1960f31b628beeba3c205a8ba98c.png");
+
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
 body {
   display: flex;
   align-items: center;
@@ -114,4 +130,20 @@ body {
 
 a{
 	color: white;
+  text-decoration: none;
 }
+
+.feedback {
+  background-color : #000000;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border-color: #46b8da;
+}
+
+#mybutton {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+}
+
