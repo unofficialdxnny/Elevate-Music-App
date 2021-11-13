@@ -3,7 +3,8 @@
 
 A Open Source Music App with many genres
 
-<h1><a href="CONTRIBUTING.md">Contribute</a></h1>
+<h1><a href="CONTRIBUTING.md">Click Here To Contribute Contribute</a></h1>
+
 ## Contains
 
 - Lofi HipHop
