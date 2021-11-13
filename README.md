@@ -17,6 +17,7 @@ A Open Source Music App with many genres
 - Add Different Genre (DW ABOUT COPYRIGHTS AS IT WILL BE A LOCAL APP(ATLEAST FORNOW))
 - If You Really Want To Clean The Directory And Redirect The Audio Files In Line "1032-1037"
 - I Will Add Some Customisation Like Themes soon
+- Add More Genres/Artists/Songs
 
 ## Usage/Requirements
 
