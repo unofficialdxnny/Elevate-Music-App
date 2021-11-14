@@ -47,5 +47,5 @@ npm start
 
 Landing Page
 
-![image](https://user-images.githubusercontent.com/82535503/141644081-ef624d18-317a-4c08-ae00-bca82d7f58b8.png)
+![image](https://imgur.com/rYPri3m.png)
 
