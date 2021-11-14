@@ -47,5 +47,5 @@ npm start
 
 Landing Page
 
-![image](https://imgur.com/rYPri3m.png)
+![image](https://imgur.com/4TSCRp4.png)
 
