@@ -42,7 +42,7 @@ npm install
 `
 npm start
 `
-
+If you want until the stable release is published with `.exe` file you can just download the `repository` and launch `index.html`
 ## ScreenShots
 
 Landing Page
