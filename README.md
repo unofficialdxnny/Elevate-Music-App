@@ -3,6 +3,9 @@
 
 A Open Source Music App with many genres
 
+## MAJOR UPDATE
+I will be changing this so it plays live radio for a few genres that way it will be easier to maintain as it is only me working on this project ATM.
+Thanks for all the support on this project We got 80 clones in 1 day which is really impressive
 <h1><a href="CONTRIBUTING.md">Click Here To Contribute Contribute</a></h1>
 
 ## Contains
