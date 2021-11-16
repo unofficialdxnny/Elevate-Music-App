@@ -12,16 +12,15 @@ Thanks for all the support on this project We got 80 clones in 1 day which is re
 
 - Lofi HipHop
 - NCS Music
+- Live Radio
 
 
 ## ToDo
 - Read Through The Code And Have The Same Style For All Songs <br>
-- Add A Video BG To Each Music Page <br>
 - Add Different Genre (DW ABOUT COPYRIGHTS AS IT WILL BE A LOCAL APP(ATLEAST FORNOW))
-- If You Really Want To Clean The Directory And Redirect The Audio Files In Line "1032-1037"
 - I Will Add Some Customisation Like Themes soon
 - Add More Genres/Artists/Songs
-
+- Navigation
 ## Usage/Requirements
 
 <a href="https://nodejs.org/en/">Node.js</a><br>
