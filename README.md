@@ -3,7 +3,7 @@
 
 A Open Source Music App made to play live radio for many genres
 
-<img src="dcf58f4783c653ef1eb3befbc3222bcc.jpg">
+<img src="https://ak.picdn.net/shutterstock/videos/20988853/thumb/8.jpg">
 
 ## Coming Soon 
 next update will contain  exe file
