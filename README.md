@@ -8,6 +8,10 @@
 
 ## Update
   cleaned up the directory so it is easy to find files
+  
+## Installation
+  You need to have the following <br>
+  <a href="https://nodejs.org/en/">nodejs</a> Only for beta release
 
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
