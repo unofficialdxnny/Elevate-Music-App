@@ -9,7 +9,7 @@ Next update will be a github repo update as you can see i have deleted the conte
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
 - Your Music<br>
-- customisation (coming soon)<br>
+- Client Customisation (coming soon)<br>
 - Favourite Songs (Coming Soon)<br>
 - Languages (Coming Soon)
 
