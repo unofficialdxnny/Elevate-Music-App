@@ -1,5 +1,5 @@
 <h1 align="center">Elevate Live Radio</h1>
-<p align="center">A light Weight Live Radio</p>
+<p align="center">A light Weight Feature Rich Live Radio App</p>
 <p align="center">
 <img src="src\assets\icons\win\1.png" alt="Paris" class="center">
 </p>
