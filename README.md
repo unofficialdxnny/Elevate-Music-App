@@ -15,19 +15,15 @@
   open terminal
   ```
   git clone https://github.com/DANNY-05/Elevate-Music-App.git
-  
   ```
 ```
   cd Elevate-Music-App
-
 ```
 ```
-  npm install
-  
+  npm install 
 ```
   ``` 
   npm start
-  
   ```
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
