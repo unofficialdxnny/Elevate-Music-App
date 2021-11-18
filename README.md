@@ -9,3 +9,6 @@ Next update will be a github repo update as you can see i have deleted the conte
 - Your Music<br>
 - customisation (coming soon)<br>
 - Favourite Songs (Coming Soon)
+
+
+<h1>7 Days In</h1>
