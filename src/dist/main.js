@@ -14,9 +14,7 @@ function createWindow() {
         },
         width: 800
 
-        webPreferences: {
-            devTools: false
-         }
+
          
     });
 
