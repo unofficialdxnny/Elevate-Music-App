@@ -1,6 +1,6 @@
 <h1 align="center">Elevate Live Radio</h1>
 <p align="center">A light Weight Live Radio</p>
-<img src="https://c.tenor.com/PDvcHKkIewAAAAAd/lofi-hiphop-radio-beats-to-relax-study-to.gif" alt="Paris" class="center">
+<img src="https://cdn.dribbble.com/users/106331/screenshots/2087271/radio_800x600.gif" alt="Paris" class="center">
 <h1>Tools</h1>
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="25" height="25">  <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="25" height="25">
 
