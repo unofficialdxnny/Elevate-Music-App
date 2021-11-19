@@ -9,7 +9,7 @@
 ## Update
   cleaned up the directory so it is easy to find files
   
-## Installation
+## Installation for CONTRIBUTERS
   You need to have the following <br>
   <a href="https://nodejs.org/en/">nodejs</a> Only for beta release
   open terminal
@@ -25,6 +25,7 @@
   ``` 
   npm start
   ```
+  ## else go to releases
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
 - Your Music<br>
