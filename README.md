@@ -1,5 +1,7 @@
 <h1 align="center">Elevate Live Radio</h1>
 <p align="center">A light Weight Feature Rich Live Radio App</p>
+
+This Does Consume Alot Of Time And Ive Got Exams So When I Finish The Customisations Section That Will Be The Last Update. But DW Imma Surprise You All With Another App Related With Music Soon
 <p align="center">
 <img src="src\assets\icons\win\1.png" alt="Paris" class="center">
 </p>
