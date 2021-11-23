@@ -12,6 +12,13 @@ This Does Consume Alot Of Time And Ive Got Exams So When I Finish The Customisat
 Released v1.0.0
   Next Update Will Conain A Designated Installer To Install All Files
 Release v2 will be out by saturday :) sorry for the wait
+  ---
+  ## will contain 
+  - HipHop
+  - NCS
+  - Lofi
+  -Pop
+  ---
 ## Installation for CONTRIBUTERS
   You need to have the following <br>
   <a href="https://nodejs.org/en/">nodejs</a> Only for beta release
