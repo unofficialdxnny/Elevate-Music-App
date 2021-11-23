@@ -37,7 +37,8 @@
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
 - Your Music<br>
-- Lofi -Pop<br>
+- Lofi <br>
+-Pop<br>
 - HipHop<br>
 - Added soundeffects lol<br>
 - Client Customisation (coming soon)<br>
