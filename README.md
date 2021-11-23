@@ -38,7 +38,7 @@
 - Live Radio For Lofi And NCS <br>
 - Your Music<br>
 - Lofi <br>
--Pop<br>
+- Pop<br>
 - HipHop<br>
 - Added soundeffects lol<br>
 - Client Customisation (coming soon)<br>
