@@ -39,6 +39,8 @@ Release v2 will be out by saturday :) sorry for the wait
 <h1>Features</h1>
 - Live Radio For Lofi And NCS <br>
 - Your Music<br>
+- Lofi -Pop<br>
+- HipHop<br>
 - Client Customisation (coming soon)<br>
 - Favourite Songs (Coming Soon)<br>
 - Languages (Coming Soon)
