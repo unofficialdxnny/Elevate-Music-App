@@ -17,7 +17,7 @@ Release v2 will be out by saturday :) sorry for the wait
   - HipHop
   - NCS
   - Lofi
-  - Pop
+  -Pop
   ---
 ## Installation for CONTRIBUTERS
   You need to have the following <br>
