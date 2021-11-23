@@ -39,6 +39,7 @@
 - Your Music<br>
 - Lofi -Pop<br>
 - HipHop<br>
+- Added soundeffects lol<br>
 - Client Customisation (coming soon)<br>
 - Favourite Songs (Coming Soon)<br>
 - Languages (Coming Soon)
