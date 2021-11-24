@@ -24,7 +24,7 @@ Update contains live radio for
 - New languages
 - Client customisations
 - Music/Artist
-
+- Mobile version coming soon
 
 ## Common Users
 
