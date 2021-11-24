@@ -17,3 +17,9 @@ Update contains live radio for
 - Lofi HipHop
 - HipHop
 - Pop
+
+## Common Users
+
+Go to releases and download the installer for v2.0.7
+
+## Developers 
