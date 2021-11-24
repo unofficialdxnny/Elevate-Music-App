@@ -43,7 +43,7 @@ cd Elevate-Music-App
 ```
 
 ``` 
-npm install
+sudo apt install nodejs && sudo apt install npm && npm install 
 
 ```
 
