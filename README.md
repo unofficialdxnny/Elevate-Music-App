@@ -23,3 +23,23 @@ Update contains live radio for
 Go to releases and download the installer for v2.0.7
 
 ## Developers 
+
+```
+git clone https://github.com/unofficialdxnny/Elevate-Music-App
+
+```
+
+``` 
+cd Elevate-Music-App
+
+```
+
+``` 
+npm install
+
+```
+
+```
+npm start
+
+```
