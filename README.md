@@ -18,6 +18,14 @@ Update contains live radio for
 - HipHop
 - Pop
 
+
+## future
+
+- New languages
+- Client customisations
+- Music/Artist
+
+
 ## Common Users
 
 Go to releases and download the installer for v2.0.7
