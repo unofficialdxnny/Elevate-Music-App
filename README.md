@@ -26,6 +26,8 @@ Update contains live radio for
 - Client customisations
 - Music/Artist
 - Mobile version coming soon
+- Next release will contain auto updates which im really excited to announce
+
 
 ## Common Users
 
