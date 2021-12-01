@@ -17,6 +17,7 @@ Update contains live radio for
 - Lofi HipHop
 - HipHop
 - Pop
+- Live GB News
 
 
 ## future
