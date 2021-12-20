@@ -11,6 +11,7 @@
 
 ## Version 2.0.7
 
+##### Ill start working on this again once it gets 10 stars:).
 Update contains live radio for 
 
 - NCS
