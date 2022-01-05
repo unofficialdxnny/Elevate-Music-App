@@ -64,4 +64,4 @@ npm start
 ```
 -----
 
-##### 63 Days in
+##### MAJOR UPDATES COMING SOON
