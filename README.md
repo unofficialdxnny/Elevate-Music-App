@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58v2FnZDkzdqnF8A9DyYa79JHiTl7TQ50vQ&usqp=CAU" alt="Paris" class="center">
+<img src="./logo.png" alt="LOGO" class="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
