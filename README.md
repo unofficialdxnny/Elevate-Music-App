@@ -16,3 +16,4 @@
 - Profile Customisation
 - Client customisation
 - Change Name
+- Like music
