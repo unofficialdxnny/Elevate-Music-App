@@ -19,3 +19,6 @@
 - Like music
 - Upload music
 - Follow artists
+- Download music
+
+ 
