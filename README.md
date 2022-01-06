@@ -2,7 +2,7 @@
 <p align="center">A light Weight cross platform music app </p>
 
 <p align="center">
-  <img src="logo.png" width="256" height="256">
+  <img src="logo.png" alt="Elevate-Logo" width="256" height="256">
 </p>
 
 
