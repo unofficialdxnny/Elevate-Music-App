@@ -17,3 +17,5 @@
 - Client customisation
 - Change Name
 - Like music
+- Upload music
+
