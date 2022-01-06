@@ -2,5 +2,5 @@
 <p align="center">A light Weight cross platform music app </p>
 
 <p align="center">
-  <img src="">
+  <img src="logo.png">
 </p>
