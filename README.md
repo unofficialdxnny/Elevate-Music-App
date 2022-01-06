@@ -15,3 +15,4 @@
 - Login System
 - Profile Customisation
 - Client customisation
+- Change Name
