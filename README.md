@@ -14,3 +14,4 @@
 
 - Login System
 - Profile Customisation
+- Client customisation
