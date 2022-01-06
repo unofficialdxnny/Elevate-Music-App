@@ -18,4 +18,4 @@
 - Change Name
 - Like music
 - Upload music
-
+- Follow artists
