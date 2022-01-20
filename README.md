@@ -7,7 +7,7 @@
 
 
 
-#### NOTE: THE RELEASES ARE OUTDATED(STILL WORK) BUT IM CURRENTLY REDOING THE APP
+#### NOTE: Im no longer working on this.
 
 
 ## Will Add
