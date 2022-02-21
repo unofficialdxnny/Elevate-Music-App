@@ -1,7 +1,7 @@
 <h1 align="center">Elevate</h1>
 <p align="center">A light Weight cross platform music app </p>
 
-<a href="httpss://instagram.com/unofficialdxnny" target="blank"><p align="center">
+<a href="httpss://instagram.com/unofficialdxnny"><p align="center">
   <img src="logo.png" alt="Elevate-Logo" width="256" height="256">
 </p></a>
 
